@@ -4,6 +4,7 @@ export default function App() {
   return (
     <div className="App">
       <h1>Animated Letter</h1>
+      {/* start here */}
       <div class="letter-image">
         <div class="animated-mail">
           <div class="back-fold"></div>
